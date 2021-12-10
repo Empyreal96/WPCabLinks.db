@@ -3,6 +3,10 @@
 This repo contains .txt lists with download links with Update Cabs for many many different WP Builds!
 
 ## Notes:
+
+Some lists will just be Language packs.
+
+
 ### Canonical - 
 "Full" packages like when OTC Updater is used to manually update a Device
 
