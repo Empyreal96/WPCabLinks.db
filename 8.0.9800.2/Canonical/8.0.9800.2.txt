@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.bluepreview.jejere_bluetobluetrials(1edd8792-f006-4580-ba80-0fe8247f153f).spkg_a095cf2915931227d4c7a8023553a9877d2248ac.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.previewprovision.enterprisetrials.blue_blue.spkg_73ba69e484a94aa37205f3177c58c18ab1bfc810.cab

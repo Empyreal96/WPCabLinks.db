@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.previewprovision.jejere_apollotoblueenterprisetrials.spkr_601fc5eceaf0f41fbcf10506a3e70202ddeb9030.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.previewprovision.jejere_atobretail(9671e372-6b8a-4367-9028-0cd6bdfc6310).spkr_76e0241233bc58c3f72dc08e3a6d103de9c018db.cab

@@ -1,0 +1,16 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/06/microsoft.windows.iotuap.eula.cbsr_04805f5565a3cec9a0276990df964b6de91137ee.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/06/microsoft.windows.iotuap.eula.cbsr_0d9d853786c7021404ea6e60d062963306da657d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/05/microsoft.windows.iotuap.eula.cbsr_2898ae0868047e96b5799a29387832b56e3f7aca.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/08/microsoft.windows.iotuap.eula.cbsr_394974a26a7da5637de83bcec6d133bcd4f92e6f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/10/microsoft.windows.iotuap.eula.cbsr_44e09614b7af53997422f9d71ea34f9f35c66154.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/07/microsoft.windows.iotuap.eula.cbsr_6323132cc7d4e5e17d6a437d41d57e1040de7fe7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.windows.iotuap.eula.cbsr_8fa927235f09992d6d8463ad3385c3bbc089b873.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/09/microsoft.windows.iotuap.eula.cbsr_93956d3ede27cc8b629c945492a1917e2be94fab.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/11/microsoft.windows.iotuap.eula.cbsr_9f3ee8fb4ed9f030f1ce37cbc9a753e4ce3a1353.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/09/microsoft.windows.iotuap.eula.cbsr_a60696e40adceab8d94bd8ba45363296a53771ac.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/07/microsoft.windows.iotuap.eula.cbsr_ae68f629ca487b4bb56e984551da597fedac594c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/05/microsoft.windows.iotuap.eula.cbsr_b5ec3f23329ac5ee063e8a4db0897eb9ea09fffa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/08/microsoft.windows.iotuap.eula.cbsr_b9441d8cb9ed1698f01fc9e68151e81364746ead.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/03/microsoft.windows.iotuap.eula.cbsr_bc9ff4ac7d6b946668f5b5f5f77147ffc39a6c42.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/06/microsoft.windows.iotuap.eula.cbsr_d6ddde98806ca3f45f4c10ab14c5c400f66a0126.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/02/microsoft.windows.iotuap.eula.cbsr_f176b99085d35fedfbb7d35cf64f1407e0c52e12.cab

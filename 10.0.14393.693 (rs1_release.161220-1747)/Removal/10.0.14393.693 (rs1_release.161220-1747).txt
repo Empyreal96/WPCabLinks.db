@@ -1,0 +1,12 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.bcd.core.cbsr_0ef4a0ad6e9734845deae4d6e7c341bdfacc34b8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.bcd.core.cbsr_3889fb32374a9b4003bf7cd0a4d93d800e1c6cb6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.bcd.core.cbsr_6470b2dac234100e5754125322bcad996f445753.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.bcd.core.cbsr_6f347407bfb32031763dfcceb2cdd4987c43ff09.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.devicelayout.cbsr_71b82e1d7ac4371e0500b3935d2cee97d6ed54c8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.devicelayout.cbsr_9cb4226db120a62409903e3470b3ca943ada071e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.devicelayout.cbsr_a42b61283417b6d7ef42323d03cf2d062ab2c95d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.devicelayout.cbsr_f196313979f5ca4cf5a05d479e7fedb81e73f3d8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.deviceplatform.cbsr_6086f12d42475c161e6807fab265437213ec3ddb.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.deviceplatform.cbsr_c57fc2fb4ce6ffeddab3a16063f89f86aeaf3802.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.deviceplatform.cbsr_c88b0c975dd4c5f94ec66a6f3006bcc891b6b953.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.iotuap.vmgen1.deviceplatform.cbsr_d9cb691e1a44b7e321fb7cdd0bd193dd15e64132.cab

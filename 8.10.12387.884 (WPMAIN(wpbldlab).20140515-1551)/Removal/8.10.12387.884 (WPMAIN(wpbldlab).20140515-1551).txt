@@ -1,0 +1,11 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.8960.devicelayout_prod_alt.spkr_234b261709c9c98d54b6d1a581c9ee440c0884f1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_acclis3dh_client.mainos.spkr_d05b876fd211cfd92d544ef0ca2c23108de89b6e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_attwifi.mainos.spkr_8cd8795e104176118f39bcc5fece4aef37d58257.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_bingapps.mainos.spkr_3968402e5f41956bcdc7ccf4d408d1a474a6de4e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_bootsequence_retail.efiesp.spkr_fe828c035f3a296f30a3fda1a3682aeaba407bea.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_bootsequence_retail.mainos.spkr_59befe862fa4388889ef13707e94139ce7526569.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_gyrompu3050_client.mainos.spkr_2fcb65abe5a0e081ce463578fdebd940c20c2b8e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_isl29028_client.mainos.spkr_769c8a38905beae729e88655d9ca7994a44fde7b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_mmosloader_retail.efiesp.spkr_4720f603de73dad74fefe266a59907153be2db5f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_mmosloader_retail.mainos.spkr_0b3305befc61dcdfb13c7645b84d290601fb5b6b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_selfhost_automatic_device_configurator.mainos.spkr_30e579a60fccdbe4292be78078009a459fd762be.cab

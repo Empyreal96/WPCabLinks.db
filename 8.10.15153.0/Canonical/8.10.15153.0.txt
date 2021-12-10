@@ -1,0 +1,7 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid1320.spkg_1de820f8f7565b245768e7319f6b05bee9f81852.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid1320.spkg_518ddf1ebc2cba5636aab9128909ae632c71a85e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid1510.spkg_78583524cdca174ad3ba22a4891e3a8cb8db865c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid1510.spkg_936b88b3c9a5b61b76aa6bdcbcb15ddbe2e80ec4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid1520.spkg_413bb66be22269f6c9cbc81c073a8a68eb40c025.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid1520.spkg_b6e967c863be5abd2289e7bfd0c0c0b0fa19e3d4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.tools.studyid310.spkg_2767cb87587b19ef5448ffeba214059b01d6a7ef.cab

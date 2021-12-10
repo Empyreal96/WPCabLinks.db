@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/04/microsoft.mobilecore.updateos.spku_349f9bcca530917a825f17f454080839d2a441eb.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/04/microsoft.mobilecore.updateos.spku_e43e93f600315a484bd7459ea66df61bf396832a.cab

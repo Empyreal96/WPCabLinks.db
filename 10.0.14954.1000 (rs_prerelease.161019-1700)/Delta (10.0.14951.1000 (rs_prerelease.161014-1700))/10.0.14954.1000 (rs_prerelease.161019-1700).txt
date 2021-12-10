@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/10/microsoft.iotuap.vmgen1.bcd.core.cbsu_0ae929ac2077381658cbaf81ddc7f7173d0d4167.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/10/microsoft.iotuap.vmgen1.bcd.core.cbsu_3c86438add68d30e10f639772db4bbd3ed618e7c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/10/microsoft.iotuap.vmgen1.devicelayout.cbsu_2d51c8299e37e863a4e17b19ec7de61b78830fe3.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/10/microsoft.iotuap.vmgen1.devicelayout.cbsu_d761eeec32ce7af5fa7397df5309ed6f72b4733a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/10/microsoft.iotuap.vmgen1.deviceplatform.cbsu_1e68fe985295a9146c149bd6e52dfbd126c2fce7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/10/microsoft.iotuap.vmgen1.deviceplatform.cbsu_66d18b2ff3d1f3c6ab7659728a98a41cf9913e3e.cab

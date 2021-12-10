@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/07/microsoft.tools.studyid1510_packageinternal.paper.spkg_5796fa19659f43e78e4e14bca8027cf2d298d886.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/07/microsoft.tools.studyid1520_packageinternal.paper.spkg_7692a90d07b2483af370508a1baa1ecbf9576213.cab

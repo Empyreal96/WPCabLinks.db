@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/07/microsoft.hoverfm.platformmanifest.mainos.cbs_1be88bf38fb44184a5ef9a811c54c5784af3b14d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/07/microsoft.microsoftphonefm.platformmanifest.efiesp.cbs_90382576c06400c4b6921f549ebeda46ee6cdc61.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/07/microsoft.microsoftphonefm.platformmanifest.mainos.cbs_4f70790e8dee5bb7ab528e50edc50c7d9cbde041.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/07/microsoft.microsoftphonefm.platformmanifest.updateos.cbs_3e696c054a51db8069339605a347579912bf6f7f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/07/microsoft.phonefm.cbs_741d44d8aeed8ab3e00c2bcc0e7be5dadb49d750.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/07/microsoft.userinstallablefm.platformmanifest.mainos.cbs_32225443a1163e7bb53c1f5bdc5dfe02188fc01b.cab

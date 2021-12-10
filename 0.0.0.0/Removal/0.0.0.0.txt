@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/01/microsoft.emptypackage.spkr_d0642693a2e82deeeb26e98fb7e9a7f61b9fd229.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2013/07/microsoft.emptypackage15.spkr_65cd74c1387dc0700f6de9c496f5ddb2bd864ed2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/11/microsoft.qc8916.msft6336.spkr_a4c4c59bdf28ed743e56a8215eeb0a1f79e14cf1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/12/microsoft.qc8916.msft6336.spkr_aa7912b494d15be7af0e24637915b32d065322dd.cab

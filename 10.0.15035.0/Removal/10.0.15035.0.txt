@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/04/microsoft.ms_china_sku.mainos.cbsr_4b0d37d72f7f3eae6b2f6880fd6633e87c3f1fd0.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/05/microsoft.ms_china_sku.mainos.cbsr_854abd8579c2d8fc0c1a81866ea5966b4cca8b60.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/04/microsoft.ms_china_sku.mainos.cbsr_c6dd71b551a210c2b91b5c6f419c037a6ca14ded.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/04/microsoft.ms_non_china_sku.mainos.cbsr_10ba8a4c4687733fd76988e2f892feeedee7aea9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/04/microsoft.ms_non_china_sku.mainos.cbsr_f51888030616593fe73fa636428898c5aaad382c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/05/microsoft.ms_non_china_sku.mainos.cbsr_f66afa89b60a3785de2fe8b6973e73056db8119c.cab

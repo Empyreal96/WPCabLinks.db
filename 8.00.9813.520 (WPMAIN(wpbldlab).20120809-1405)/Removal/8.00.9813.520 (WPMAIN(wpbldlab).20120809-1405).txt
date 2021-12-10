@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.enabletestsigning.spkr_30fe11e762eb14e604f3b301839e44b86e156e6c.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.enabletestsigning.spkr_d6a90eb9c935cb3e3681bb64416b32a6c1aab3ce.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.dogphonealpha.acpi.spkr_301fa602f2f42fa61b67f2f1103411e0472d0de3.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.dogphonealpha.devicelayout_test.spkr_ce72d525a68dc6ac642015eadc2be86cba952a81.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.phone.test.baseos.envpath.spkr_00252b6311fc098f215dd37c141784bc4086b15b.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.phone.test.baseos.envpath.spkr_ad43b5eccf8b9ae01e0fbd997403e169219a554b.cab

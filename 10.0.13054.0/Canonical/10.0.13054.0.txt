@@ -1,0 +1,7 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/12/microsoft.tools.studyid1220.cbs_1bab8239a3eceb5bf6823630f003e47cc6865c75.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/02/microsoft.tools.studyid1220.cbs_e1cc51ac7d83f234523dea5b058314a17babb574.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/01/microsoft.tools.studyid1320.cbs_b3acfd934b15079a6d0803f21a512711c5bbde3d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/01/microsoft.tools.studyid1510.cbs_3babc671f2de08c4d4d1ebf0d747068ac1dc8668.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/01/microsoft.tools.studyid1520.cbs_d482a01f082a2ce7bc1c514c3f8ce3d4ce3fc6f8.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/02/microsoft.tools.studyid220.cbs_1f3a3325c353adc6b3046fe54fc77f912e51331c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/02/microsoft.tools.studyid310.cbs_e5d0fa879a32113b155355e065b37c3761394118.cab

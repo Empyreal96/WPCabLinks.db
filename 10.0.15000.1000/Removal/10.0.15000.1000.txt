@@ -1,0 +1,9 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/02/microsoft.speech.data_lang_he-il.cbsr_0d0ca8a9e4d1da52f5096da8143c2b6764dc30cf.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/02/microsoft.speech.data_lang_he-il.cbsr_4e84fa0ecad068675fdc7577a00347140337bc93.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.speech.data_lang_he-il.cbsr_f3e16b12353a5b0a1413c36dc5fb7250e4894a2c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/02/microsoft.speech.downloaddata_lang_he-il.cbsr_5b25e7aa3470217628fb1b26e1d63cd0c309a3f9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/02/microsoft.speech.downloaddata_lang_he-il.cbsr_859e4a0e26d5979b87bfaa321addf292dc8a275c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/03/microsoft.speech.downloaddata_lang_he-il.cbsr_dd46455cb7187b146784e03946df50baf9efde29.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/03/microsoft.speech.downloadsystem_lang_he-il.cbsr_cd444a876a5886349d522a997dc577916aa6d005.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/02/microsoft.speech.downloadsystem_lang_he-il.cbsr_eb37f2d759e56cd6642e5b8d6049c932f14f406c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/02/microsoft.speech.downloadsystem_lang_he-il.cbsr_f452bee9c3a4b3da9702885d9198629e150def15.cab

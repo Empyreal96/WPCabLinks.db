@@ -1,0 +1,10 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.8960.devicelayout_prod.spkg_d24fa133e0522e4a92131dc5c55a9e277b46b1da.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.bootapplications.spkg_753542f74b2d19d3c4ba6b2c74571a0538827ce0.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.enabletestsigning.spkg_444b62995c0290d75f312049c37da65f73bd0fe8.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.mainos.halextensions.8960.spkg_e03751d6db3e4ce50d5e59484fb61d594b034750.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.mainos.ppmsettings.qc8960.spkg_0db4e19b266234551cce5160e90e0b94c42626a9.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.socprodtest_8960.spkg_c98bb7d879b3a6b9aada37478fec1978da26df9f.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.updateos.halextensions.8960.spkg_f1c9e05b199680d650ae051cdcf346defbc5abc5.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.bcd.bootsequence.retail.spkg_19fbb7acb8eb341890e4f91f1630c9f7309872ab.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.drivers.watchdog.spkg_77370ae3a1f443ae09b5457e9941a63f37039e65.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.photos.hdr.spkg_cda151b9d2357729317252c1f8b5f3c733375464.cab

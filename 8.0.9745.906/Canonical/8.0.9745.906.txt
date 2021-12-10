@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.phone.test.deviceupdate.dmmcommitfail.spkg_bc023bb5143e767c6bb502abadf0670fe3baa409.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.phone.test.deviceupdate.e2estagingfailure1.spkg_3aec47a2cbf115c30b5b2164094ed2aebf4fd3fd.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.phone.test.deviceupdate.e2estagingfailure1.spkg_3c5729aae66957361e82cd23e54335b563c2380d.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.phone.test.deviceupdate.e2estagingfailure2.spkg_ac1a5f04c3f3e0c9a809eabcf68099d36cd5cfef.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.phone.test.deviceupdate.e2estagingfailure2.spkg_ed1e174729d1ce868c767db144af2454f32d341a.cab

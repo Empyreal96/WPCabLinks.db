@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/01/microsoft.iotuap.vmgen1.bcd.core.cbs_7860407a142ebe52329402cd452ac108b524793f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/01/microsoft.iotuap.vmgen1.bcd.core.cbs_bb7c6ffca475a2f750f715955e9108329b4d277e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/01/microsoft.iotuap.vmgen1.devicelayout.cbs_bea912063989a6f49e0d991cfb3913a6f6684b85.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/01/microsoft.iotuap.vmgen1.devicelayout.cbs_e909fb0f69d5d35be3f5a70ada8bbf08dd1190a6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/01/microsoft.iotuap.vmgen1.deviceplatform.cbs_52f7769110bf80cc7acac9f0853efae6a139693f.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/01/microsoft.iotuap.vmgen1.deviceplatform.cbs_6802aef7a84519c621a9d70f933808f29ec858ff.cab

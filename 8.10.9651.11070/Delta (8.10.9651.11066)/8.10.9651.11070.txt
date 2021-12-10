@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/10/microsoft.mobilecore.prod.mainos.spku_9c1b40a55ad42a9c5f382aa96ab09e34ade25d60.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/10/microsoft.mobilecore.updateos.spku_fcd8c8c65d9c418ff8a8d9e08134c21bb034158d.cab

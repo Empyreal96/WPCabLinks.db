@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/09/microsoft.mobilecore.iotuap.efiesp.cbsu_167d073d4ba6de4fbbe3a985e1b4e0f1667ae6f0.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/09/microsoft.mobilecore.iotuap.mainos.cbsu_c6550b332d36c99bff7f5a3ee0e0db7c9abb2956.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/09/microsoft.mobilecore.prod.efiesp.cbsu_6d0dc3f65050f8315dfac57052a75b5412c7ec17.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/09/microsoft.mobilecore.prod.mainos.cbsu_57a1838dc02c9d6cb488522d115236b9db383da5.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/09/microsoft.mobilecore.updateos.cbsu_af02bd7634e8a2bef1878f0efcdafc8959ccf2cc.cab

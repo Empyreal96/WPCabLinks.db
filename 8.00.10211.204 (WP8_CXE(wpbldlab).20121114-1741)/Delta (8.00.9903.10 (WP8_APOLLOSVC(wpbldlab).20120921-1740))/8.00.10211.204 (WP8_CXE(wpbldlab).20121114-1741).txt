@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/12/microsoft.mainos.production_lang_hi-in.spku_d5b6d5c05a63a908c190f1bc3f2fe6cd00fd829c.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/12/microsoft.mainos.production_lang_vi-vn.spku_bd9ed1ed46b9b7b432cfc598d09b35d85bfc859d.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/12/microsoft.mainos.production_lang_zh-cn.spku_9031da5b28b24bc4e545fb4dc800835b18d74af8.cab

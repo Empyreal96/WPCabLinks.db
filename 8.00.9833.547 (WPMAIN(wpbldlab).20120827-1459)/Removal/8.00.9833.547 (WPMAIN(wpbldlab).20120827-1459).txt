@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.q8960soc.wlan.spkr_3b66ddea2bf22449637f1049acd94b0caa1d36a8.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.q8960soc.wlan.spkr_610df6c81d7f77f6617da04b8ad879d00e541750.cab

@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/02/microsoft.mobilecore.iotuap.efiesp.cbsr_40bd79493d62d59c24f8cf64e18c211f73295816.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/02/microsoft.mobilecore.iotuap.mainos.cbsr_e6afe505b240727095dae98d87cfb344288f877e.cab

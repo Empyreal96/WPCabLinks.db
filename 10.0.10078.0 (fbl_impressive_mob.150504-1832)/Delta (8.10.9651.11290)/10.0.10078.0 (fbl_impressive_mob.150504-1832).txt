@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.mobilecore.prod.efiesp.spku_a33457b750bba19ae3652dc7e0ff58b9b685c101.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.mobilecore.prod.mainos.spku_7ac3cefea4edc2c0107ab21d5a7776b146cee054.cab

@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.mobilecore.prod.efiesp.spku_dee1f2c9f1d3917287527bd9b6fc3617f5a0da5e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.mobilecore.prod.mainos.spku_0be81e6b7fbca6180373f079e50eb83f019d3b35.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.mobilecore.updateos.spku_136c77481061090cb05624aff63722afb92feda3.cab

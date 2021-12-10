@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/02/microsoft.tools.studyid1000.spkr_b4b2b5d238effa506964fdbf7f98ff8161528ace.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/02/microsoft.tools.studyid1010.spkr_3567ccc9cf3cc4588a32f29a73cdbb439f8c7c6d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/02/microsoft.tools.studyid1020.spkr_60273586bb8d599dd6ad16476648f2956b670382.cab

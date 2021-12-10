@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.mobilecore.prod.efiesp.spku_32d867f6961ce8f5ac30b7bf857250b0c19cbbe6.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.mobilecore.prod.efiesp.spku_3fd952dea56068604eb13bce6eaad669c0e78fc1.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.mobilecore.prod.mainos.spku_149316514837a5556ccd8d49bd288736d213461e.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.mobilecore.prod.mainos.spku_d1e20cafecb6521261b13b051393d87b6c658e8a.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.mobilecore.updateos.spku_90deaf3bc8f69f22bd3963567177cf9ba629d351.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.mobilecore.updateos.spku_b4322008a51cf6aa98d6bdfe61c0c0d039be0f97.cab

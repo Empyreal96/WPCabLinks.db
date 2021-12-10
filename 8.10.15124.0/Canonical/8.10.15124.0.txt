@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/03/microsoft.tools.studyid1320.spkg_8f9ff3cd53f85f469b448a7740b6d8fe830e3efa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/03/microsoft.tools.studyid1510.spkg_a193c3048423b220c1baefc78ea610f1a18e5b62.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/03/microsoft.tools.studyid1520.spkg_1a82d58167cb40544b38923edf7b79acafdb4c09.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/03/microsoft.tools.studyid310.spkg_f0ebea59378d82675403b5432882c29f76b0e91d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/03/microsoft.tools.studyid320.spkg_019f2690b0b86c1b5a24aaab38782ce6a97ed714.cab

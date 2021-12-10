@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/07/microsoft.ms_bingfood.mainos.spkg_edb700f49b864c99364f71fe5fde50f339d9894b.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/07/microsoft.ms_binghealth.mainos.spkg_4bbdb28cbfcbeaea7274b628f13ec24b96e7816d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/07/microsoft.ms_bingtravel.mainos.spkg_67ada69a3427373317cf3675e83dfdb4f30e3ebf.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/07/microsoft.ms_skype.mainos.spkg_c06c68210dcd2d547d530bd54a2fd8cb2c39ac66.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/07/microsoft.phonefm.spkg_c2f741fcdc34ca94b456406c6064bdeed1236508.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/07/microsoft.prerelease_protected.mainos_lang_en-us.spkg_930f5f4c9900f178cd68223140f36a69d18bad10.cab

@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2017/01/microsoft.speech.data_lang_he-il.cbsr_71536435885162fdc6e05508f74f5948e15c01e3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/01/microsoft.speech.downloaddata_lang_he-il.cbsr_98a6f45ec7af794f725ee042fcc276c0b12aae78.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2017/01/microsoft.speech.downloadsystem_lang_he-il.cbsr_c24409dae60c888b1efcfb4ce7ea1282db23185d.cab

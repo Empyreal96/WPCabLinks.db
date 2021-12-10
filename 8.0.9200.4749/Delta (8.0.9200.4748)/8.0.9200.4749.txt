@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/microsoft.mobilecore.updateos.spku_17a74e753f66be46c2b9e87314bafe783c3903d9.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/microsoft.mobilecore.updateos.spku_72aa2dbcabebfe818f5350e45c41d67c2b9b5c56.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/microsoft.mobilecore.updateos.spku_a6bc0ded59f9443397da52199e69d400bcdb2e32.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/11/microsoft.mobilecore.updateos.spku_bd214ce91586802d97e40d3b97902514aa924602.cab

@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/04/microsoft.ms_projecta.mainos.cbsr_25c216b2d5fb6e89796eec04d6853b62b55ca130.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/10/microsoft.ms_projecta.mainos.cbsr_7ea1963b4bfa656a0cca023f5680a08addb794d2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/04/microsoft.ms_projecta.mainos.cbsr_ac0bd1c73f257af03978ac96898c766ec831fdfb.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/05/microsoft.ms_projecta.mainos.cbsr_ee60c1b03d59286da7197d7daf1f4290d106fcc4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.ms_projecta.mainos.cbsr_f45be76b30ef37f7d9f060b350efad7930e8c563.cab

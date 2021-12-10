@@ -1,0 +1,7 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_ar-sa.spkg_a88cef981628728c107889a9d4e67dce397f1cae.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_az-latn-az.spkg_d86f5c5ab325992e7c8089d0e460478e4c1e5b08.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_be-by.spkg_e2ea019f088661e6a6950e36e0c1ea5cda512f5f.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_bg-bg.spkg_bfa695661f8f5a84634c7f8278d4ee41c6b0e1a6.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_ca-es.spkg_3ff106c84f6a03591764639aae930b4e347045e6.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_cs-cz.spkg_da4607f96304813d522cbace62bcc7123f2f79e5.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.mainos.production_lang_da-dk.spkg_4dd57e6d6d497f7eedb75309a3f99f680ca94588.cab

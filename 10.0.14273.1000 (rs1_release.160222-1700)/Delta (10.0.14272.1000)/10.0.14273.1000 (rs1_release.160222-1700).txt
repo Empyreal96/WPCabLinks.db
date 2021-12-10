@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/02/microsoft.mobilecore.prod.efiesp.cbsu_b3d09927018d2539347ff16c675c4a17ba2bbf44.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/02/microsoft.mobilecore.prod.mainos.cbsu_a9c58921f0f0210e0e05a82eb64d0f0302a4b254.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/02/microsoft.mobilecore.updateos.cbsu_aa19f541d1f276650690ac19ff824c60d48aa3c4.cab

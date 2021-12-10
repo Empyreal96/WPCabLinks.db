@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/04/microsoft.mobilecore.prod.mainos.spku_66acc110ff182695de9e7ad4aeb0bd7e8d47fa02.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/04/microsoft.mobilecore.prod.mainos.spku_be271b7c82a0446a2b8a1f564ec30d0388bd3ddf.cab

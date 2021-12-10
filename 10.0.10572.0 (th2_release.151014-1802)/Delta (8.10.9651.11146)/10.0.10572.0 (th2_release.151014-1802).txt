@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/10/microsoft.mobilecore.prod.efiesp.spku_77818e8f218d399ea937972a71feff4f0a5aa61d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/10/microsoft.mobilecore.prod.mainos.spku_6a0b1cdbe55bd00b58f96e2c759770667df875cd.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/10/microsoft.mobilecore.updateos.spku_e518c4f12573353ec89afac14e1e15e5fc513c73.cab

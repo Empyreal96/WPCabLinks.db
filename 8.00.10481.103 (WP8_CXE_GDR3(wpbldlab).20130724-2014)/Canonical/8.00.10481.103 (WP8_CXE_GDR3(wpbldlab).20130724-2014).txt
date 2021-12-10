@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2013/07/microsoft.deviceupdate.selfhostclient.spkg_02e5c94d17b16a4a800ad36e1504e5ebae50aef9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2013/07/microsoft.tools.wpdiet.spkg_803e3edf3a1ef25e76223ca1c7687fb64dc0d3e6.cab

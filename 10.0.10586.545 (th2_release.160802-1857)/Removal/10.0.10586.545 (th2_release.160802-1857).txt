@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/08/microsoft.customizationfm.cbsr_0f53b3e03293ac2874c8ac20821e51bd55585503.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/08/microsoft.customizationfm.cbsr_63f14ccbee891969c6262c47cbef84662e991d48.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/08/microsoft.iotuap.wsusconfig.cbsr_2389a049f2ea38cf2021adba18c217476b4cc26d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/08/microsoft.iotuap.wsusconfig.cbsr_e0d1eaca1b0eb3523c72313f9659845de58ebef9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/08/microsoft.ms_facebook.mainos.cbsr_8ccb84290771144178742fecc0be091af6f72475.cab

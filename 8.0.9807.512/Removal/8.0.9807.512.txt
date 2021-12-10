@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.baseos.fveenable.softwarecryptoon.spkr_0150686490bd6fadbaba31664c99bc73cc446f09.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.phone.test.netvmp.spkr_80e60fe98e2df8f762ac9a0c83b6492d9375554c.cab

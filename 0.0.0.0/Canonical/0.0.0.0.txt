@@ -1,0 +1,11 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/12/microsoft.drivers.ak09911.spkg_063616a362e94ba1ebe8cd3374dc177de95b6f7c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/04/microsoft.drivers.ak09911.spkg_38bead5600ea91ae02ad729565da38ce35e126e6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/01/microsoft.drivers.ak09911.spkg_3a53f668a27567e542f257cbea9ca46758342e1d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.drivers.ak09911.spkg_627c8ba1cd4673ee0e0d4573616878555049f48e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/01/microsoft.drivers.ak09911.spkg_b037154fe1d39019df765c641f396cee396f04d7.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/01/microsoft.drivers.ak09911.spkg_b9c26d4841e05569d2a09da068d444e15a4a9be8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.drivers.ak09911.spkg_cf19b7c0f55c2603594a4d3c7eb4fd841c001700.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.drivers.ak09911.spkg_cfeee025cc12f6e6657a94b2bab514de205871f4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/04/microsoft.drivers.ak09911.spkg_d2032601ad1b3cdbf9d75170b5b924ff882120ee.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.drivers.ak09911.spkg_fdf5903757803b3f05b334ce0d9af365096f2645.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/04/microsoft.qc8916.msft6336.spkg_f4bfe863bd2a27a4bedd196d3f37c37c380de84e.cab

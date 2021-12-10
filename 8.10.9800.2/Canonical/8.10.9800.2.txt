@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.bluepreview.jejere_bluetobluerfutrials(b151a2c0-4dc5-435d-8e2f-cf1cc8ab9cb6).spkg_62c235bb64a352c669901afb6e9d600323ad9a41.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.bluepreview.jejere_btobretail(9671e372-6b8a-4367-9028-0cd6bdfc6310).spkg_65cbd4d72adf45ab611f45937b39b0fc998c3d69.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.previewprovision.blue.akonly.spkg_83f5c59963865862a84dd48aa13962391cdb9e5e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.previewprovision.newdevicetrials.blue.04142014.spkg_2aad9626c29a613b3b3497ba9f01cc8b92a3c40c.cab

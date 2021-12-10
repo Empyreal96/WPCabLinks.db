@@ -1,0 +1,15 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.assignedaccessfm.spkr_285d8d6753404b682e919213f930c0a6b1590b03.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.assignedaccessfm.spkr_e2e844fb6609daef492f6d76d948e95b2cdbeb33.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.base.aa.mainos.spkr_aff5e0167eb4b3374e89b679b0d42196390e502e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.base.aa.mainos.spkr_b21da34fa31b086e76e30277867e1b19436f9732.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.ms_bingfinance.mainos.spkr_0c76eef47fcbde0e67a2e29f3a27cceaa210983e.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.ms_bingfinance.mainos.spkr_6d7ebe87fc4d16927a6edc3225e767540bc31854.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.ms_bingnews.mainos.spkr_e9bc313729b7ef473c4d582e644d3fadd8b3c5b1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.ms_bingnews.mainos.spkr_f9644fedcc36eef5c5f7efb4a5e2d023dd2dbc83.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.ms_bingsports.mainos.spkr_73871d848743db9d73696036a8f17c6f7b59068a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.ms_bingsports.mainos.spkr_a28fedfb429f5d7e7fb15e7a87ac1a10d8db0d1b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.ms_bingweather.mainos.spkr_2561a53d6d5ce9ba3fcebe3e6f4acd98d22ba98c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.ms_bingweather.mainos.spkr_a505fd73bf79f98ca36dae02b328522351bba416.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.ms_optimized_boot.mainos.spkr_15d0c4c4d7172b7294a713cf76bcd900bc72eeb5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/02/microsoft.ms_wpdiet.mainos.spkr_64d57327a8b6cb7ddeab1a2f619132a171189262.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.ms_wpdiet.mainos.spkr_dd78e1bcb1a044739fbc2a85f5b02d0c60deaedc.cab

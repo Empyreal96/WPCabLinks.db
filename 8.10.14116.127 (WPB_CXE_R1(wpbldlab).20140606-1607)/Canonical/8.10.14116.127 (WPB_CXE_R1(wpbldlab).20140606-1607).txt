@@ -1,0 +1,17 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.base.weh.data.spkg_36016c2a1c8c43383b5623ffa9628175a403d360.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.base.weh.mainos_res_540x960.spkg_dfcfbc48079105964bb8be74fe32160e4321e76d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.deviceupdate.selfhostclient.spkg_1b600bd0138d62f4658dd5e63e2c4a578a031615.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.mainos.production_res_540x960.spkg_112e3cbab663fb9b8a75cab90c3d1bb1b135fa91.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.ms_bingfood.mainos.spkg_35bb76624c4024ce3ff91bc332ba7dc523c4c1d8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.ms_bingfood.mainos.spkg_d8c28e2e8eb420bc13f71f4e0bba06ff34fe4fc6.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.ms_binghealth.mainos.spkg_3dc6595548954ace53edb59319e6693d9e7d0493.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.ms_binghealth.mainos.spkg_69a402f884e23eaa163a6522bc5156ff9cddc941.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.ms_bingtravel.mainos.spkg_9db7342377fb4fa9fa1ace820b889e7cd83ecbe5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.ms_bingtravel.mainos.spkg_c08efa67b26ae29c784430b50ffc7375802faf5d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.ms_skype.mainos.spkg_b6dd747ff8f13c9bda27e20d67557b3498f33504.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.ms_skype.mainos.spkg_f3677753c2ef1012942032519788295dc1aa2395.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.phonefm.spkg_050e6d488be81932b14743d93a9c7e577ab40cba.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/06/microsoft.phonefm.spkg_c1cc166aef894ad8ca0036ec212a842a0023b199.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.prerelease_protected.mainos_lang_en-us.spkg_13c8e87cbb0ff8b3cdb10b4df22bc31569bb1bfe.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.prerelease_protected.mainos_lang_en-us.spkg_91e6191b3d098b8ccc6a2014e583ae5d9a21a688.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.prerelease_protected.mainos_res_540x960.spkg_761d4ff4b139e7d6c40a9606ed9636a109c9e867.cab

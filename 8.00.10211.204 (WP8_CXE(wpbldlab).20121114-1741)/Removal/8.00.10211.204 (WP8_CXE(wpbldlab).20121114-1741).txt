@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2013/09/microsoft.baseos.mainos.halextensions.8960.spkr_de7481170689d7b96a5c25eb23334c2c72f08947.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/04/microsoft.graphics.d3d_res_480x640.spkr_3281b2c5ed28ca834cc22de1575b7d6755acd68e.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/03/microsoft.graphics.d3d_res_480x640.spkr_ef39fe74963057e61a55d5386597f06bd1fc74b1.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2013/04/microsoft.graphics.d3d_res_480x640.spkr_f11f12b787fa6b0f6d0f4c7d9c52489aecf8d881.cab

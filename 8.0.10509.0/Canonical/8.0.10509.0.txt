@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.tools.uninstallwpdiet.spkg_19775b4a5d1b29bc81c3f219483b2a43ace4d192.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/02/microsoft.tools.uninstallwpdiet.spkg_f11eeca382a3e87139c77d2fa6f76b3fd8823def.cab

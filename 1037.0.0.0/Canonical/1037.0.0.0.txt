@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.ql650.msft6336.spkg_6d9f72656a000b08c8a24b690b64f4c09a07b443.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/04/microsoft.ql650c.msft6336.spkg_a8b8fc01c7eb1dc59e8ed520dc3c1e6330f32747.cab

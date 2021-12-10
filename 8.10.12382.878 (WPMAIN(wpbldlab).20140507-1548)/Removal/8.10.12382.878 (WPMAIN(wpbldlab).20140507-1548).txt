@@ -1,0 +1,14 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.8960.devicelayout_prod_alt.spkr_a85e20580b485a13bba1bf57b674e2d292773f04.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_acclis3dh_client.mainos.spkr_cd01e407b30c960125da1696e8d94f21ad3517d9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_attwifi.mainos.spkr_90b37fd67729d5f9d7eec52f1a3d57070583c48d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_bingapps.mainos.spkr_f3faec400ffac5a6738287c2a660b7f0096dec79.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_bingfood.mainos.spkr_0544e4f6d29db603c8426bd1ede4d3fca2ed35d9.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_binghealth.mainos.spkr_3f32a7346e73b8e80f4e3a619a74f505fb2d6397.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_bingtravel.mainos.spkr_7e4b4dabbb2974d8d1874af63ebdd333b844ff22.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_bootsequence_retail.efiesp.spkr_9e2bcb89bac46a9488bc653ef6738702e8807f96.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_bootsequence_retail.mainos.spkr_55b31fd5a98b6107153b67022e80923c120a7115.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_gyrompu3050_client.mainos.spkr_8dd0dce758063e15b52a5b74d3e8bcb1f7a0f8d2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_isl29028_client.mainos.spkr_3be30e5090f4f560882b0d0e070078a74b6b96a5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_netlog_retail.mainos.spkr_29f77bc26fb650b6f691beff0c3c5452074c877a.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_selfhost_automatic_device_configurator.mainos.spkr_17de9caee3a5e1dace99921383a9999093b8d6aa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_skype.mainos.spkr_c1c16c3418776f784effbead9d535f70934580e3.cab

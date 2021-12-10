@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2013/06/microsoft.graphics.d3d_res_1080x1920.spkg_6797e63b264baae7b1ee30bf2d2fabea629bad1d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2013/06/microsoft.mainos.production_res_1080x1920.spkg_a8543c6bed987381a7b27853819f4da1a387eb77.cab

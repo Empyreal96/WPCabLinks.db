@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.tools.feedback_data.spkr_7b6ed0265cbdffc8162e681a3beb5e00dae5a4db.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.tools.feedback_data.spkr_f72aee883dbe463bbe1d680b398520bda4ee8943.cab

@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/01/microsoft.8960.devicelayout_prod_alt.spkr_4e5d2bb04c499eb4451aa42dcca2b473954972ac.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/03/microsoft.deviceupdate.selfhostclient.spkr_804a5786cb0aba53ac436c90370182560be16871.cab

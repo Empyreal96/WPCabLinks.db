@@ -1,0 +1,14 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.8960.devicelayout_prod_alt.spkr_1bc9dac0157a9fe962360011dfd212dba9cb43d1.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_acclis3dh_client.mainos.spkr_a3409b68e49488931294cdf5b43879d3c06e0352.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_attwifi.mainos.spkr_00b07ff81a522e01d7f4d35372d42ff7c223ddc7.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_bingapps.mainos.spkr_802a0621dc118033d80b1217fed6db6d15283c4f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_bootsequence_retail.efiesp.spkr_e4ae4589e766f4c3d8f6c29ba00c00623ca5d82a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_bootsequence_retail.mainos.spkr_185b018984706c7c7d9e3181def23df3ba6579d9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_gyrompu3050_client.mainos.spkr_7ec438c42d859106948faaab8510e92388fef5b0.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_isl29028_client.mainos.spkr_d8cf25404e8d193af627401e92e766fc4815c817.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_mmosloader_retail.efiesp.spkr_83fde2a5ccc347eb8e6bd4e1a4fee0c827993e90.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.ms_mmosloader_retail.mainos.spkr_fe341ef076e4c2f6f1bfa6ebd9e51460f2e4d780.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/11/microsoft.ms_netlog_retail.mainos.spkr_fc955b9ba1083be3b8823da441a61925516a6f26.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.ms_selfhost_automatic_device_configurator.mainos.spkr_74296527f814200252f06036b4558b736bfc0a6c.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/11/microsoft.ms_weh_wifionly.weh.mainos.spkr_76bc7cb42951e14d6c4f81fb4d96eb76ddaeb5a7.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/06/microsoft.ms_weh_wifionly.weh.mainos.spkr_8949ab5db46eb6e1d0b65c0eb951cbc94063330a.cab

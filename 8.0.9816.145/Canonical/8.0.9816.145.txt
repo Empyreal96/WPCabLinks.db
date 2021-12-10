@@ -1,0 +1,5 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.phi.acpi.spkg_28632ff065e1ef9d4d6b1f75a512527dbccc5e59.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.q8960soc.diagbridge.spkg_46a00df75ecf9e851ff5b34c61a8d77b2cba7a97.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.q8960soc.diagrouter.spkg_d0e431f4dc702e1132364ae8a24173e70ec31487.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.q8960soc.qcautologger.spkg_70a6c8f82a0ebc398d12f064e62c79df9a86e30e.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.q8960soc.wlan.spkg_e91af228b453b747dd191f7225413dd4dbbc3e72.cab

@@ -1,0 +1,10 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.family.kidzone.spkr_6ad7aea23ec3a7dcd6229b40ce13bf9841809ec4.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.family.kidzone.spkr_ac3f28a8040ae2c9f1c97a0305dda7e178f28c6b.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.family.kidzone_lang_en-us.spkr_4d6a067bf14ffa4ac65e250ce1dcc808e526ca73.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.family.kidzone_lang_en-us.spkr_9a1d63f03325a7953f3b5f06eddba50b26850abc.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.family.kidzone_res_480x800.spkr_3ae09d12ab5784b0719d7f3a255ad138ef3c45b5.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.family.kidzone_res_768x1280.spkr_a0086a77be966dee380808b11d6ecefdc056695e.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.m8960soc.camerasettings.spkr_a7dfea61cae3bfed701b192d84d0bc1ac38ffa3e.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.m8960soc.camerasettings_lang_en-us.spkr_03a01b0ae8b39bcea7d58082fbdcb26607ad5dc4.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.photos.hdr.spkr_6bcfaca9eafd26d173ecdb4405ecdfebe63799ae.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.photos.hdr.spkr_e13ef864d716d969c4f450e9cace027d62b09017.cab

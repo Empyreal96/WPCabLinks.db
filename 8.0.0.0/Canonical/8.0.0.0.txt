@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/10/microsoft.phone.net.wifion.spkg_5f679903474b67f3caac2a40fd634462d3b53d66.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/07/microsoft.phone.test.baseos.iubvt.mainos.spkg_3ebb62a8ed3b8ede199f553f7ec20f04a1a93801.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.phone.test.baseos.iubvt.mainos.spkg_cbe89f583f2b6360f5e5deb7de6a91e50e515481.cab

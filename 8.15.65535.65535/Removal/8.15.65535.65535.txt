@@ -1,0 +1,15 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.ms_bingfood.mainos.spkr_f3c724bf65c9bad313f87d7bfe9d3fa596fdc313.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.ms_binghealth.mainos.spkr_d6af397b3457d962baa365024714a41ea0b38e34.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.ms_bingtravel.mainos.spkr_7c78b6bf30facdb216d08cf54b8deb85fe188ac4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/07/microsoft.ms_commsenhancementchina.mainos.cbsr_7c01992d47165593f63e9901f0cf1c848145acaf.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/07/microsoft.ms_commsenhancementglobal.mainos.cbsr_dcb8fc81bd7146cca67e7474c8672245e515fe02.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/07/microsoft.ms_commsmessagingglobal.mainos.cbsr_9e01342bccd3216e018e837ea2ac038703e226b2.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/07/microsoft.ms_commsmessaginglite.mainos.cbsr_ff3f526e4464b1097a281faa5cdfa9ae1c9e61de.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/05/microsoft.ms_pagefile_256.mainos.cbsr_007457c17273755b49e1e764abd68c131d6c00dc.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/09/microsoft.ms_pagefile_256.mainos.cbsr_0cd7c4f4b1d884db3097acf2db62c56e02d0c497.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.ms_pagefile_256.mainos.cbsr_2120eef74aaaffa0d293b1fa3016ee23038799c5.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/09/microsoft.ms_pagefile_256.mainos.cbsr_5d9c2a22b47c0b070b7734e52240ee2bc7dbc103.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/04/microsoft.ms_pagefile_256.mainos.cbsr_698b13070eac7b71dc736053b00c829a0bc6b8d6.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/09/microsoft.ms_pagefile_256.mainos.cbsr_c47981ebbc49a04ec6f6f6b90c004083cdec87e8.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/12/microsoft.ms_pagefile_256.mainos.cbsr_c84fb1e05b2e36940588300fd06141344ab84817.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/04/microsoft.ms_pagefile_256.mainos.cbsr_e4517a029fbb16e66bd405332e9abe5b00227252.cab

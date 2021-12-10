@@ -1,0 +1,8 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_0d6ba87253f34e2175f4df90e2fa3adfd94f9e09.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_1045c71b1ddbc224c1866813fcbd4709c87f3d72.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_19f3c42d704e2b9f2567010a8d802a8808dad672.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_3c450cba978b1a4247e27ba373aef507153cceca.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_4219a58f13a6e8e646559c57d4913448c3130ff0.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_802b3a5105f1fb3ba5769793a577b71dc9dcdf33.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_d80e113b4b268f036574a7ab33c3f51d6283bc57.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/06/microsoft.phone.test.samplewlansvc.spkg_f93b191e25bdf1c8b185c5ab7278eede63da79a6.cab

@@ -1,0 +1,3 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/05/microsoft.ms_facebook.mainos.cbsr_3d9f488b7920a8a6d0a078f21483b977ca3f3932.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/05/microsoft.ms_facebook.mainos.cbsr_4022fb782bbf3ebe2c3b1a80fe0263b1eaaa6ed4.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/05/microsoft.ms_facebook.mainos.cbsr_4217ee03d3952322b592bfc9c7ad71b694df0b0b.cab

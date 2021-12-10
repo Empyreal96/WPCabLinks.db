@@ -1,0 +1,10 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/01/microsoft.mobilecore.iotuap.efiesp.cbsr_04d42a6dc71dc0efb3578e6ae1a09ed1a93607e3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.mobilecore.iotuap.efiesp.cbsr_2444f311275a2f633a6617d63bd529398c900118.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.mobilecore.iotuap.efiesp.cbsr_9481e3dca90e80fa252e5fd52eddcd4ea0a631a3.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.mobilecore.iotuap.efiesp.cbsr_a1b73726e45542acb791a96c926bc12668acff0c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/05/microsoft.mobilecore.iotuap.efiesp.cbsr_d0a8324184d92444bec3d43c7a23f8e2f8cca0c5.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.mobilecore.iotuap.mainos.cbsr_4108ddc44a64dd2701bdced8cb8a03e36c83351c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.mobilecore.iotuap.mainos.cbsr_429fc7ea126d8ad0af36805ca2469704eeb4923a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/05/microsoft.mobilecore.iotuap.mainos.cbsr_52e41dca9b87c26691bf5fe3c08d8d7ed4b0baa9.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/04/microsoft.mobilecore.iotuap.mainos.cbsr_7ecf4aa935917a4d8b803580da099d01394e2c34.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2016/01/microsoft.mobilecore.iotuap.mainos.cbsr_e64b2349fb001827ab1f987d60688dd204d4c733.cab

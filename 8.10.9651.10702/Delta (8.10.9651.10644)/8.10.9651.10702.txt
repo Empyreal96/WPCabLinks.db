@@ -1,0 +1,9 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.mobilecore.prod.efiesp.spku_1efed61aecc0846a1d96ed5fbb65ef3135b5fa2a.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.mobilecore.prod.efiesp.spku_59856ffe51936ebaacda3ac2e925b6be49fc7f9e.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.mobilecore.prod.efiesp.spku_95d6c72c60c8ce7054f5865cebd4199396b97951.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.mobilecore.prod.mainos.spku_0a7ebef15ff84e51945faba03c5379ed3ebb330f.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.mobilecore.prod.mainos.spku_bd56fd1b2652dc4184f12a4530c693c261c7c359.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/05/microsoft.mobilecore.prod.mainos.spku_d3092f112276cf4ae155ca0aa036e8d53b970f7d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.mobilecore.updateos.spku_1751dfbf3010b0f6adad3dfce483b91e049611de.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.mobilecore.updateos.spku_af0e97822b894a3d08db2c4c192eff40f19ef1a2.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/05/microsoft.mobilecore.updateos.spku_b1042136774dca34c95771e8cc823e9d31b9dc12.cab

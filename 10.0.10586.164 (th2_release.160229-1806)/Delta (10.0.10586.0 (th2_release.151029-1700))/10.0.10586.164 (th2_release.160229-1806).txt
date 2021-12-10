@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/03/microsoft.customizationfm.cbsu_31777cc3bf83d7d4e4856a1a394b7a47dd583594.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/03/microsoft.customizationfm.cbsu_a5c7931362812e948b9943a14782f0feaa6b3727.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/03/microsoft.iotuap.wsusconfig.cbsu_0ccb94e4cf3a78173346c088b78f232c156f82d4.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2016/03/microsoft.iotuap.wsusconfig.cbsu_6cd7ab5265dcf92169657070c60482b5fa672395.cab

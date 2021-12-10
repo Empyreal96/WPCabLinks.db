@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.bandit.oemdeviceplatform.spkg_058673a996a8677e4cd0d884f68ccccffe57db18.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.bandit.oemdeviceplatform.spkg_c06fd53136af9947b89a337ba41f454feb45868c.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.bandit.oemdeviceplatform.spkg_e85bb59343d09e103d93240a83a2b17fea6f437b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.bandit.platformid.spkg_59f27d8f8935d00c267b1b230d3ecc833c6ce934.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2014/04/microsoft.bandit.platformid.spkg_5a5807b5b6888c7ec3e084c1141e2f92245f6703.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2014/04/microsoft.bandit.platformid.spkg_74329dd27a929e1a17e1cfbc4c8365d7faa3a1e5.cab

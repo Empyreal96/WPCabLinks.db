@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.drivers.sdbusreg.spkr_b9f48ffe416f99478e90e9434bea654e7aaedfef.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/09/microsoft.drivers.sdbusreg.spkr_c0cc77fb7784ea73466d21e2ae2c81480ebbb2c2.cab

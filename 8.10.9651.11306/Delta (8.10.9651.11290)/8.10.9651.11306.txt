@@ -1,0 +1,6 @@
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/02/microsoft.mobilecore.prod.efiesp.spku_6099e1083b7c21ddffd4abffce9bc7d80d75da42.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/02/microsoft.mobilecore.prod.efiesp.spku_eb552ccf3ebb0ea6040cf5c7c874b44adda9674d.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/02/microsoft.mobilecore.prod.mainos.spku_8f873ec5cc3fd4020e03a5553ef9d8d95a0a217d.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/02/microsoft.mobilecore.prod.mainos.spku_902e5559bb846b31c402d3a335324a9f4636e881.cab
+http://download.windowsupdate.com/c/msdownload/update/software/dflt/2015/02/microsoft.mobilecore.updateos.spku_1c9dfb845d4475831a4bf9a7d7cfcc1519715aaa.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/02/microsoft.mobilecore.updateos.spku_24c193db9b49220e2c2cdf21f7fec3cb28955e54.cab

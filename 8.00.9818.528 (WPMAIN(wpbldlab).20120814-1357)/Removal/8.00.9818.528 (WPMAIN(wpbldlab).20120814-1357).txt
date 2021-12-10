@@ -1,0 +1,2 @@
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.phone.test.uxplatform.avcore.wavelet.spkr_4f125762996f6142620e2bbdd81108975a839ef2.cab
+http://download.windowsupdate.com/msdownload/update/software/dflt/2012/08/microsoft.phone.test.uxplatform.avcore.wavelet.spkr_b86c7b25c83d0df5fa8394e4c20df6e52b7913f6.cab
