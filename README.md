@@ -4,7 +4,8 @@ This repo contains .txt lists with download links with Update Cabs for many many
 
 ## Notes:
 
-Some lists will just be Language packs.
+- Some lists will just be Language packs.
+- Some builds (17xxx) are for Hololens
 
 
 ### Canonical - 
