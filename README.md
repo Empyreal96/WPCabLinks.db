@@ -1,6 +1,7 @@
 # WPCabLinks.db
 
-This repo contains .txt lists with download links with Update Cabs for many many different WP Builds!
+This repo contains .txt lists with download links with Update Cabs for many many different WP Builds! 
+*Please be aware I haven't tested any of these yet, just filtered the links to each build so it's up to the user to know how to install and debug any issues installing*
 
 ## Notes:
 
