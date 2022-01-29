@@ -7,6 +7,7 @@ This repo contains .txt lists with download links with Update Cabs for many many
 
 - Some lists will just be Language packs.
 - Some builds (17xxx) are for Hololens
+- Some Canonical build lists have both spkg and cbs cabs in the .txt
 
 
 ### Canonical - 
