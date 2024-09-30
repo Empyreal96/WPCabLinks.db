@@ -1,0 +1,4 @@
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.base.iotuap.mainos_res_1440x2560.cbs_62f0c12075f8c6a17eec62efb232ddf04868791b.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.mainos.production_res_1440x2560.cbs_0e31002c3e06b8579f9ad9758443f7085cc33d29.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.phonefm.cbs_8eba80724e87d5bede91f3ac1304de374a699386.cab
+http://download.windowsupdate.com/d/msdownload/update/software/dflt/2015/05/microsoft.prerelease_protected.mainos_res_1440x2560.cbs_43641e6b36583b8d8ca842069bc95a6dfcef3435.cab

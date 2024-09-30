@@ -1,23 +1,1 @@
-# WPCabLinks.db
-
-This repo contains .txt lists with download links with Update Cabs for many many different WP Builds! 
-*Please be aware I haven't tested any of these yet, just filtered the links to each build so it's up to the user to know how to install and debug any issues installing*
-
-## Notes:
-
-- Some lists will just be Language packs.
-- Some builds (17xxx) are for Hololens
-- Some Canonical build lists have both spkg and cbs cabs in the .txt
-
-
-### Canonical - 
-"Full" packages like when OTC Updater is used to manually update a Device
-
-### Delta - 
-These are "Update" packages, you will need to be on the build Specified on a Delta Folder, example:
-`10.0.14903.1000 (rs_prerelease.160809-1700)\Delta (10.0.14902.1000 (rs_prerelease.160808-1700))`
-
-You will need to be on build `10.0.14902.1000 (rs_prerelease.160808-1700)` before using the `Delta 10.0.14903.1000 (rs_prerelease.160809-1700)` packages.
-
-### Removal -
-These are used to remove currently Installed Packages from a Device
+# WPCabLinks.dbThis repo contains .txt lists with download links with Update Cabs for many many different WP Builds! *Please be aware I haven't tested any of these yet, just filtered the links to each build so it's up to the user to know how to install and debug any issues installing*## Update:It's been several years since this repo was last modified, so time for a change!All lists have been seperated into different files, one each for `spkg`, `cbs`, `spku`, `cbsu`, `spkr`, `cbsr`..This should prevent some issues i've seen recently with users downloadin lists and pushing both cbs and spkr packages to a device## Notes:- Some lists will just be Language packs, removal cabs etc.- Some builds (17xxx) are for Hololens.### Canonical - "Full" packages like when OTC Updater is used to manually update a Device### Delta - These are "Update" packages, you will need to be on the build Specified on a Delta Folder, example:`10.0.14903.1000 (rs_prerelease.160809-1700)\Delta (10.0.14902.1000 (rs_prerelease.160808-1700))`You will need to be on build `10.0.14902.1000 (rs_prerelease.160808-1700)` before using the `Delta 10.0.14903.1000 (rs_prerelease.160809-1700)` packages.### Removal -These are used to remove currently Installed Packages from a Device
